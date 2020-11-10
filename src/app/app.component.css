@@ -1,0 +1,15 @@
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+h4{
+  display: flex;
+  justify-content: center;
+}
+img {
+  height: 40%;
+  width: 40%;
+  display: flex;
+  margin: 0 auto;
+}
